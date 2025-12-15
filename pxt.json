@@ -1,0 +1,11 @@
+{
+  "name": "ads1015",
+  "description": "ADS1015 12-bit ADC driver for micro:bit",
+  "dependencies": {},
+  "files": [
+    "ads1015.ts"
+  ],
+  "targetVersions": {
+    "microbit": "0.14.6"
+  }
+}
