@@ -2,7 +2,7 @@
  * ADS1015 I2C ADC Driver
  */
 //% color=#00A2E8 icon="\uf1ec" block="ADS1015"
-namespace ADS1015 {
+namespace ads1015 {
     let i2cAddr = 0x48
     let gain = 0x0200
     let currentMode = Mode.SingleShot
@@ -192,3 +192,4 @@ namespace ADS1015 {
         return results
     }
 }
+
