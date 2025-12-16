@@ -6,6 +6,7 @@
     "ads1015.ts"
   ],
   "targetVersions": {
-    "microbit": "0.14.6"
+    "core": "0.14.6"
   }
 }
+
