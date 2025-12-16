@@ -1,12 +1,17 @@
 {
   "name": "ads1015",
-  "description": "ADS1015 12-bit ADC driver for micro:bit",
+  "version": "0.1.0",
+  "description": "ADS1015 12-bit ADC driver for BBC micro:bit",
+  "license": "MIT",
   "dependencies": {
     "microbit": "*"
   },
   "files": [
-    "ads1015.ts"
+    "ads1015.ts",
+    "README.md"
   ],
   "public": true,
   "preferredEditor": "blocksprj"
 }
+
+
