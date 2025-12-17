@@ -24,3 +24,4 @@ This is a MakeCode extension for using the ADS1015 12-bit ADC with BBC micro:bit
 ## License
 
 MIT License
+
